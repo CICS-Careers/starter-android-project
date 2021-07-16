@@ -10,7 +10,7 @@ Tips and resources to get you started with Android app development!
 
 ## [Android Basics in Kotlin](https://developer.android.com/courses/android-basics-kotlin/course)
 
-##[Udemy Android Masterclass](https://www.udemy.com/course/android-kotlin-developer/?start=165)
+## [Udemy Android Masterclass](https://www.udemy.com/course/android-kotlin-developer/?start=165)
 
 # Video Resources
 ### Great videos to help you learn!
