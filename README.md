@@ -1,6 +1,12 @@
 # starter-android-project
 Tips and resources to get you started with Android app development!
 
+# [Developer Student Club @ UMass](https://umassdsc.com/)
+Developer Student Clubs is a  G o o g l e Developers program for university students to learn  mobile  and  web development skills, design thinking skills   and  leadership skills.  Join DSC UMass in our open source movement!
+
+# [Build UMass](https://buildumass.com/)
+We are a group of students committed to provide non-profits, startups and local businesses with scalable technological soultion through pro-bono consulting engagements.
+
 # Starting resources
 ### To help get you going!
 1. [Fundamentals of app dev](https://developer.android.com/guide/components/fundamentals)
