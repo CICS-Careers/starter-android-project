@@ -21,8 +21,9 @@ We are a group of students committed to provide non-profits, startups and local 
 
 # Video Resources
 ### Great videos to help you learn!
-1.[Android App Development for Beginners - 1 - Introduction](https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
-2.[Tutorialspoint Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+1. [Tutorialspoint Android Tutorial](https://www.tutorialspoint.com/android/index.htm)
+2. [Android App Development for Beginners - 1 - Introduction](https://www.youtube.com/watch?v=QAbQgLGKd3Y&list=PL6gx4Cwl9DGBsvRxJJOzG4r4k_zLKrnxl)
+
 
 # [230 App ideas!](https://techvidvan.com/tutorials/android-project-ideas/)
 
